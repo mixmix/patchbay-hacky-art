@@ -1,6 +1,6 @@
 {
   "name": "patchbay-hacky-art",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "a view into the world of hacky~art",
   "main": "plugs/index.js",
   "scripts": {
