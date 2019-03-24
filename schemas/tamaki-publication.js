@@ -11,7 +11,8 @@ module.exports = {
     },
     img: { $ref: '#/definitions/blobId' },
     title: { type: 'string' },
-    description: { type: 'string' }
+    description: { type: 'string' },
+    caption: { type: 'string' }
   },
   definitions
 }
